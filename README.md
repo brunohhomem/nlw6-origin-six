@@ -1,4 +1,4 @@
-# nlw6-origin-six
+# Next Level Week 6 - Origin
 
 Next Level Week 6 - Projeto Origin Six
 Projeto da Rocketseat.
